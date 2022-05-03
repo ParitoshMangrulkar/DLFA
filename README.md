@@ -3,12 +3,12 @@ DLFA
 
 # Math Basics 
 ## Linear Algebra
-  Vectors
-  Matrices
-  Eigen Values & Eigen Vectors
-  Singular Value Decomposition
-  Norms
-  Calculus
+  Vectors 
+  Matrices 
+  Eigen Values & Eigen Vectors 
+  Singular Value Decomposition 
+  Norms 
+  Calculus 
   
 # Probability & Statistics
 ## Sigma Algebra
