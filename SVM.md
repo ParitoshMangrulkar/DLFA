@@ -6,5 +6,7 @@ https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-
 
 https://cs.stanford.edu/~karpathy/svmjs/demo/
 
+https://www.jeremyjordan.me/support-vector-machines/
+
 
 
