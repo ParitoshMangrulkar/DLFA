@@ -10,5 +10,6 @@ https://www.jeremyjordan.me/support-vector-machines/
 
 PCA - Handos on Example: https://www.youtube.com/watch?v=S51bTyIwxFs
 
+Lagrangian Calculator: https://www.emathhelp.net/calculators/calculus-3/lagrange-multipliers-calculator/
 
 
