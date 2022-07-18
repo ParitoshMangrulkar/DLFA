@@ -5,19 +5,19 @@
 #### 11 June - RNN - Shriram
 #### 18 June - Attention Network & Deep Learning - Shriram
 
-#### Logistic Regression
-#### FeedForward Neural Networks
-#### Backpropogation
-#### CNN
-#### RNN
-#### Regularization
-#### Dropout
-#### batch Normalization
-#### Deep Networks
-#### Optimization algorithums for training deep networks
-#### LSTM
-#### Network in Network architectures
-#### Attention in Neural Networks
+###### Logistic Regression
+###### FeedForward Neural Networks
+###### Backpropogation
+###### CNN
+###### RNN
+###### Regularization
+###### Dropout
+###### batch Normalization
+###### Deep Networks
+###### Optimization algorithums for training deep networks
+###### LSTM
+###### Network in Network architectures
+###### Attention in Neural Networks
 
 
 ## Test Skills:
