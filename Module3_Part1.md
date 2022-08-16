@@ -25,3 +25,5 @@
 
 ### https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-logistic-regression/
 
+###https://learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
+CNN Calculations
