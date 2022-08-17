@@ -27,3 +27,11 @@
 
 ###https://learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
 CNN Calculations
+
+### Here are some methods that are proposed to overcome the vanishing gradient problem:
+Residual neural networks (ResNets)
+Multi-level hierarchy
+Long short term memory (LSTM)
+Faster hardware
+ReLU
+Batch normalization
