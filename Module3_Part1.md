@@ -19,6 +19,8 @@
 ###### Network in Network architectures
 ###### Attention in Neural Networks
 
+Optimization Algorithm graphics : https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c#:~:text=The%20Momentum%20method%20uses%20the,is%20generally%20the%20best%20choice.
+
 
 ## Test Skills:
 ### https://www.analyticsvidhya.com/blog/2021/05/artificial-neural-networks-25-questions-to-test-your-skills-on-ann/
