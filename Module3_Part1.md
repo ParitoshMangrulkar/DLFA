@@ -29,6 +29,7 @@ Optimization Algorithm graphics : https://towardsdatascience.com/a-visual-explan
 
 ###https://learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
 CNN Calculations
+### Back propogation https://www.kaggle.com/code/xjyang7/an-introduction-to-backpropagation
 
 ### Here are some methods that are proposed to overcome the vanishing gradient problem:
 Residual neural networks (ResNets)
